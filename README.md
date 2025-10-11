@@ -1,2 +1,2 @@
-# PyEmuStation
-A better ES-DE without C++ or restricted executable pats
+# NeonDeck
+a game launcher that keeps things simple while being feature-packed
